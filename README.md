@@ -1,2 +1,2 @@
-# docker-storm-ui
-Docker image for Apache Storm UI
+# docker-storm-supervisor
+Docker image for Storm Supervisor
