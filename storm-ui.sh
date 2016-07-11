@@ -3,4 +3,4 @@
 # Run configuration script
 /opt/configure.sh
 
-/opt/storm/bin/storm supervisor
+/opt/storm/bin/storm ui
